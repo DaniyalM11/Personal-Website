@@ -28,12 +28,12 @@ const Hero = () => {
         <p className={`${styles.heroFooterText}  absolute bottom-10 absolute left-5 text-[#5ac0e8]
         lg:text-[30px] sm:block hidden xs:block hidden block hidden lg:leading-[40px]
         `}>
-           Shatter your limits daily 
+           You can't learn everything, but you have to convince yourself you can learn anything.
            
         </p>
         <p className={`${styles.heroFooterText}  absolute bottom-0 absolute left-10 text-[#5ac0e8] 
         lg:text-[21px] sm:block hidden xs:block hidden block hidden lg:leading-[30px]`}>
-           - A Wise Man
+           - John Carmack
            
         </p>         
 

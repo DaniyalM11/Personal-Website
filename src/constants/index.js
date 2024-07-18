@@ -52,6 +52,7 @@ import {
     ABNB,
     ABNBV2,
     Port_Web,
+    everestglobal_logo,
   } from "../assets";
   
   export const navLinks = [
@@ -71,6 +72,10 @@ import {
   
   const services = [
     {
+      title: "Data Engineer",
+      icon: creator,
+    },   
+    {
       title: "Data Scientist",
       icon: web,
     },
@@ -81,10 +86,6 @@ import {
     {
       title: "Software Engineer",
       icon: backend,
-    },
-    {
-      title: "Data Engineer",
-      icon: creator,
     },
     {
       title: "Data Analyst",
@@ -214,15 +215,31 @@ import {
   
   const experiences = [
     {
-      title: "Data Analyst - Actuarial",
+      title: "Director - Data Engineering",
+      company_name: "Everest",
+      icon: Verisk_Analytics,
+      iconBg: "#E6DEDD",
+      date: "January 2024 - Present",
+      points: [
+        "Team Lead for 3 teams with staff totaling 5-15 people at various times. Platform split into North America Insurance, International Insurance and Reinsurance team.",
+        "North America Insurance platform built on Azure datalake technology using Data lakehouse medallion architecture. Databricks Notebooks, PySpark, Spark SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool use to build Data lakehouse based system. International Insurance and Reinsurance systems built using Azure SQL PAAS instances, stored procedures, SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool; staging layer/propagation layer/mart layer star schema based dimensional model used.",
+        "Gross Reserve Studies(GRS), Actual Vs Expected(AVE), Incurred but not reported(IBNR), Roll Forward tool(RFT), Solvency II(Solv) modules built as part of data application.",
+        "Scheduled jobs built to interface with third part reserving tool called ResQ. PowerBI used for report building and dashboarding purposes. Automated jobs being setup to interface with ledger for IBNR booking purposes.",
+        "Working in a SAFe(Scaled Agile Framework) setting using Software Development Life Cycle(SDLC)."
+      ],
+    },    
+    {
+      title: "Senior Data Analyst II - Actuarial",
       company_name: "Enstar Group",
       icon: Enstar_Group,
       iconBg: "#383E56",
-      date: "December 2019 - Present",
+      date: "December 2019 - January 2024",
       points: [
-        "Data analysis, data engineering, data management, process automation, ETL and technology specialist for the non-life runoff US corporate actuarial department. Extensive use of Python, SQL, VBA and MS Office toolset.",
-        "Assisting with group wide data initiatives along with assisting actuaries with portfolio specific data management and workflow automations.",
-        "Building a data warehouse using dimensional modeling for the US actuarial team with a front end serving proposed to be piloted using various BI Tools and project portal.",
+        "Performed data analysis, data engineering, machine learning for the non-life runoff US corporate actuarial department. Extensive use of Python, SQL, and MS Office toolset.",
+        "Assisting actuaries with portfolio specific data management and workflow automations.",
+        "Building a data warehouse using star schema dimensional modeling for the US actuarial team with the front end serving proposed to be piloted using Power BI/Access Linked Tables/ResQ/Jupyter Notebooks. Project code named - Project ADAM. Azure cloud services Fabric and Synapse are being explored to implement a distributed warehouse to accommodate large datasets. Demoed PowerBI as a tool to build group level reports and dashboard.",
+        "Assisting the change initiative within organization and with group wide data initiatives as a data steward.",
+        "Building an end-to-end Machine Learning project to discover feature importance for claim settlements amounts for asbestos claims. Scikit Learn & Keras are being used for model building, testing and inference. MLFlow proposed to be used for MLOPS."
       ],
     },
     {
@@ -232,10 +249,10 @@ import {
       iconBg: "#E6DEDD",
       date: "December 2016 - December 2019",
       points: [
-        "Performed ETL, data analysis and process automation for PDP's clients using various technologies. Extensive use of Python, PostgreSQL and MS Office toolsets.",
+        "Built bespoke transformation engines for PDP's clients using various technologies. Extensive use of Python, PostgreSQL and MS Office toolset for data engineering and data analysis.",
         "Maintained and developed subject matter expertise of ISO's statistical commercial lines and personal lines manuals to aid PDP's client needs.",
         "Helped develop internal ISO and external vendor processes to aid each PDP client's project development.",
-        "Worked in an agile product development environment using the JIRA project management toolset.",
+        "Worked in an agile product development environment using the JIRA project management tool. Worked on certain projects as a project owner writing stories containing business requirements and pseudo code for overseas development team to develop.",
       ],
     },
     {
@@ -245,10 +262,10 @@ import {
       iconBg: "#383E56",
       date: "October 2006 - May 2015",
       points: [
-        "9 years of loss reserve predictive modeling, business side data engineering and data management experience. 6 years of supervisory experience with 3 years of direct management experience. Extensive use of MS office toolset, VBA and Oracle SQL.",
-        "Led, performed and supervised the AIG international quarter close process. The process involved booking IBNR reserves on a US GAAP and Local STAT basis for all countries and every line of business AIG operates in, where held totaled numerous billions in IBNR reserves. Process also involved continuous communications with regional actuaries, senior management, regional accountants and profit centers heads.",
-        "Maintained and updated various relational databases containing policy & claim data/accounting data/triangulated data etc. The process involved communicating with the IT team regularly and receiving updates to machine data quarterly. Performed and supervised, at various times, balancing reports to maintain the validity of data for reserving and quarter closing purposes. Maintained and updated various excel based VBA macros which produced various exhibits and spreadsheets for reserve analysis and quarterly booking purposes.",
-        
+        "9 years of loss reserve predictive modeling, data engineering, data analysis & data management experience. 6 years of supervisory experience with 3 years of direct management experience. Extensive use of MS office toolset,VBA and Oracle SQL.",
+        "Lead analyst for financial lines, small business solutions and warranty lines of business predictive modeling reserve analyses on varying occasions. Lead analyst for Hong Kong, Jamaica, UK, Malaysia and Latin America regional reserve analyses on varying occasions. Lead analyst for various statutory entity predictive modeling  reserve analyses on varying occasions.",
+        "Led, performed and supervised the AIG international quarter close process. Process involved booking IBNR reserves on a US GAAP and Local STAT basis for all countries and every line of business AIG operates in, where held totaled numerous billions in IBNR reserves. Process also involved continuous communications with regional actuaries, senior management, regional accountants and profit centers heads. Maintained SOX complainer documentation for process.",
+        "Enhanced and maintained star schema based dimensional data model built in MS Access to maintain machine data for IBNR reserve booking process during quarter close. The system was also used to balance to ledger postings and reserving totals that were populated in the reserving templates. Enhanced and maintained vba based data pipelines to move data from data model into quarterly IBNR booking analysis templates, balancing templates and reserve study templates. Maintained quarterly SOX compliance documentation for system. In later years, the system began to be moved onto Oracle from MS Access.",
       ],
     },
 
