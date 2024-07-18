@@ -45,16 +45,10 @@ const About = () => {
       <motion.p variants={fadeIn("", ", 0.1, 1")}
       className='mt-4 text-secondary text-[17px] max-w-3X1 leading-[30px]'
       >
-        I am seasoned Machine Learning, Analytics and Software Engineering professional. I started my career at AIG 
-        where I worked as an actuarial analyst performing reserve analysis to predict loss reserves for various lines 
-        of business. I also built and maintained the databases using a star schema dimensinal model for our department which served up our whole 
-        department's IBNR predictions to the financial reporting team to book into the financial ledger. After 
-        9 years at AIG my next job was a Verisk Analytics were I joined a start up data initiative within our
-        data acquisition team as a Senior Business Data Analyst. We acquired data from our various clients and performed transformations 
-        on the data to fit into the format needed for statistical reporting. After spending 3 years doing that I moved to my current role
-        as a Data Analyst-Actuarial at Enstar Group where I work on various data initiatives for the team. One of the major
-        initatives to highlight development of a Data Warehouse using dimensional modeling along with the end to end design
-        and development of how to serve the data to our end users.  
+        I am seasoned Data Engineering, Machine Learning, Analytics and Software Engineering professional. I have a career spanning over 16 years from working as an actuary at AIG to working in senior analytics and engineering roles at Verisk Analytics and Enstar Group to my current role as
+        Director of Data Engineering at Everest. In that time I have built and maintained many data applications and systems which have fulfilled business needs. As a reserving actuary at AIG for 9 years I conducted reserve analysis(predictive analysis) to predict ultimate losses and IBNR for calculating
+         reserve needs for the company.I try to learn as many software engineering disciplines as I can and in my time away from work, I like building projects in many different domains of technology. My career goals are to have a solid grasp on many engieering displines so I can lead many innovative and
+        interdiscplinary engineerng and analytics projects throughout my career. I have a BBA degree in Actuarial Science from Temple university and MSC in Machine Learning from Stevens Institute of Technology.    
 
       </motion.p>
 

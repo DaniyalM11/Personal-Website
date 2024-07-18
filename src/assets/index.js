@@ -38,6 +38,7 @@ import TChat from "./Transformer_Chatbot.png";
 import ABNB from "./AIRBNB2019.png";
 import ABNBV2 from "./AIRBNB2019_V2.png";
 import Port_Web from "./Portfolio_Website.png";
+import everestglobal_logo from "./company/everestglobal_logo.png";
 
 import AWS from "./tech/amazon-web-services.png";
 import Spark from "./tech/apache_spark.png";
@@ -118,4 +119,5 @@ export {
   ABNB,
   ABNBV2,
   Port_Web,
+  everestglobal_logo,
 };

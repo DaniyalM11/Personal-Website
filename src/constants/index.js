@@ -217,7 +217,7 @@ import {
     {
       title: "Director - Data Engineering",
       company_name: "Everest",
-      icon: Verisk_Analytics,
+      icon: everestglobal_logo,
       iconBg: "#E6DEDD",
       date: "January 2024 - Present",
       points: [
