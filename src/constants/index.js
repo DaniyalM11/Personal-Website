@@ -225,7 +225,7 @@ import {
         "North America Insurance platform built on Azure datalake technology using Data lakehouse medallion architecture. Databricks Notebooks, PySpark, Spark SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool use to build Data lakehouse based system. International Insurance and Reinsurance systems built using Azure SQL PAAS instances, stored procedures, SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool; staging layer/propagation layer/mart layer star schema based dimensional model used.",
         "Gross Reserve Studies(GRS), Actual Vs Expected(AVE), Incurred but not reported(IBNR), Roll Forward tool(RFT), Solvency II(Solv) modules built as part of data application.",
         "Scheduled jobs built to interface with third part reserving tool called ResQ. PowerBI used for report building and dashboarding purposes. Automated jobs being setup to interface with ledger for IBNR booking purposes.",
-        "Working in a SAFe(Scaled Agile Framework) setting using Software Development Life Cycle(SDLC)."
+        "Working in a SAFe(Scaled Agile Framework) setting using Software Development Life Cycle(SDLC) and CI/CD pipelines."
       ],
     },    
     {
