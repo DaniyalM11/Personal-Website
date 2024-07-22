@@ -252,7 +252,7 @@ import {
         "Built bespoke transformation engines for PDP's clients using various technologies. Extensive use of Python, PostgreSQL and MS Office toolset for data engineering and data analysis.",
         "Maintained and developed subject matter expertise of ISO's statistical commercial lines and personal lines manuals to aid PDP's client needs.",
         "Helped develop internal ISO and external vendor processes to aid each PDP client's project development.",
-        "Worked in an agile product development environment using the JIRA project management tool. Worked on certain projects as a project owner writing stories containing business requirements and pseudo code for overseas development team to develop.",
+        "Worked in an agile product development environment using the JIRA project management tool. Worked on certain projects as a product owner writing stories containing business requirements and pseudo code for overseas development team to develop.",
       ],
     },
     {
