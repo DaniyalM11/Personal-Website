@@ -325,6 +325,27 @@ import {
   
   const projects = [
     {
+      name: "Telco Customer Churn Prediction",
+      description:
+        "An end to end machine learning fully containerized project via docker with modular code design, orchestration via Airflow, Model tracking via MLFlow and Model serving via FastAPI. ",
+      tags: [
+        {
+          name: "Modular Design",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Airflow",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "Docker",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: TChat,
+      source_code_link: "https://github.com/DaniyalM11/Telco-Customer-Churn",
+    },
+    {
       name: "Transformer Chatbot",
       description:
         "A chatbot built using Transformer architecture using the Daily Dialogue dataset. TensorFlow was used as the library of choice to train the model. ",
