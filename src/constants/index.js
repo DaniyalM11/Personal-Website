@@ -219,7 +219,7 @@ import {
       company_name: "Everest",
       icon: everestglobal_logo,
       iconBg: "#E6DEDD",
-      date: "January 2024 - Present",
+      date: "January 2024 - December 2024",
       points: [
         "Team Lead for 3 teams with staff totaling 3-12 people at various times. Platform split into North America Insurance, International Insurance and Reinsurance team.",
         "North America Insurance platform built on Azure datalake technology using Data lakehouse medallion architecture. Databricks Notebooks, PySpark, Spark SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool use to build Data lakehouse based system. International Insurance and Reinsurance systems built using Azure SQL PAAS instances, stored procedures, SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool; staging layer/propagation layer/mart layer star schema based dimensional model used.",
