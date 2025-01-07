@@ -19,7 +19,7 @@ const Hero = () => {
             <span className="text-[#5ac0e8]">Hi, I am Daniyal</span>
           </h1>
           <p className={`${styles.heroSubTest} mt-2 text-[#5ac0e8] text-[40px]`}>
-            This website showcases a portfolio of my machine learning, software engineering and analytics projects. 
+            This website showcases a portfolio of my machine learning, engineering and data analytics projects. 
           </p>
 
 

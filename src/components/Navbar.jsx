@@ -24,7 +24,7 @@ const Navbar = () =>{
           <p className="text-white text-[18px] font-bold cursor-pointer"> Daniyal Mufti
             <span
            className="sm:block hidden">
-            Seasoned Machine Learning,Software Engineering and Analytics Professional</span>
+            Seasoned Machine Learning, Data Engineering and Data Analytics Professional</span>
             </p>
 
         </Link>
