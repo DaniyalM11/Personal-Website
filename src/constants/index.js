@@ -222,10 +222,10 @@ import {
       date: "January 2024 - December 2024",
       points: [
         "Team Lead for 3 teams with staff totaling 3-12 people at various times. Platform split into North America Insurance, International Insurance and Reinsurance team.",
-        "North America Insurance platform built on Azure datalake technology using Data lakehouse medallion architecture. Databricks Notebooks, PySpark, Spark SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool use to build Data lakehouse based system. International Insurance and Reinsurance systems built using Azure SQL PAAS instances, stored procedures, SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool; staging layer/propagation layer/mart layer star schema based dimensional model used.",
-        "Gross Reserve Studies(GRS), Actual Vs Expected(AVE), Incurred but not reported(IBNR), Roll Forward tool(RFT), Solvency II(Solv) modules built as part of data application.",
-        "Scheduled jobs built to interface with third part reserving tool called ResQ. PowerBI used for report building and dashboarding purposes. Automated jobs being setup to interface with ledger for IBNR booking purposes.",
-        "Working in a SAFe(Scaled Agile Framework) setting using Software Development Life Cycle(SDLC) and CI/CD pipelines."
+        "Worked on North America Insurance platform built on Azure data lake technology using Data Lakehouse medallion architecture. Databricks Notebooks, PySpark, Spark SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool used to build Data Lakehouse based system.",
+        "Worked on International Insurance and Reinsurance systems built using Azure SQL PAAS instances, stored procedures, SQL, Azure Data Factory Pipelines and Tidal Job Scheduling tool; staging layer/propagation layer/mart layer star schema based dimensional model used to build system. ",
+        "Worked in a SAFe(Scaled Agile Framework) setting using Software Development Life Cycle(SDLC) and CI/CD pipelines.",
+        "Built DGAAPs financial reporting project. Work involved building ETL pipelines from various sources into the data lake and building PowerBI report on the transformed data for financial reporting. "
       ],
     },    
     {
@@ -235,11 +235,11 @@ import {
       iconBg: "#383E56",
       date: "December 2019 - January 2024",
       points: [
-        "Performed data analysis, data engineering, machine learning for the non-life runoff US corporate actuarial department. Extensive use of Python, SQL, and MS Office toolset.",
-        "Assisting actuaries with portfolio specific data management and workflow automations.",
-        "Building a data warehouse using star schema dimensional modeling for the US actuarial team with the front end serving proposed to be piloted using Power BI/Access Linked Tables/ResQ/Jupyter Notebooks. Project code named - Project ADAM. Azure cloud services Fabric and Synapse are being explored to implement a distributed warehouse to accommodate large datasets. Demoed PowerBI as a tool to build group level reports and dashboard.",
-        "Assisting the change initiative within organization and with group wide data initiatives as a data steward.",
-        "Building an end-to-end Machine Learning project to discover feature importance for claim settlements amounts for asbestos claims. Scikit Learn & Keras are being used for model building, testing and inference. MLFlow proposed to be used for MLOPS."
+        "Performed data analysis, data engineering and machine learning for the non-life runoff US corporate actuarial department. Extensive use of Python, SQL, and MS Office toolset.",
+        "Assisted actuaries with portfolio specific data analysis, data management, data modeling and data engineering. Work involved requirement gathering, designing and programming ETL workflows, designing specific data models for actuarial team to query and performing data analysis on portfolio data",
+        "Built a data warehouse/data mart using star schema dimensional model for the US actuarial team with the reporting and data serving being done using Power BI/Access Linked Tables/ResQ/Jupyter Notebooks. Data mart intended to be integrated with the Enterprise Data Warehouse.",
+        "Developed a machine Learning model to discover feature importance for claim settlements amounts for asbestos claims. Scikit Learn was used for model building, testing and inference.",
+        "Provided mentorship to junior colleagues on certain projects."
       ],
     },
     {
@@ -249,10 +249,11 @@ import {
       iconBg: "#E6DEDD",
       date: "December 2016 - December 2019",
       points: [
-        "Built bespoke transformation engines for PDP's clients using various technologies. Extensive use of Python, PostgreSQL and MS Office toolset for data engineering and data analysis.",
+        "Built and designed data systems for PDP's client portfolios using various technologies. Extensive use of Python, PostgreSQL and MS Office toolset for data engineering and data analysis.",
+        "Worked on multiple portfolios; work involved requirements gathering with clients, designing and programming ETL workflows to load into ISO statistical reporting data models and designing balancing and analysis reports. Statistical reporting done on a quarterly basis for all clients so, over time, optimized submission process for multiple portfolios.",
         "Maintained and developed subject matter expertise of ISO's statistical commercial lines and personal lines manuals to aid PDP's client needs.",
-        "Helped develop internal ISO and external vendor processes to aid each PDP client's project development.",
-        "Worked in an agile product development environment using the JIRA project management tool. Worked on certain projects as a product owner writing stories containing business requirements and pseudo code for overseas development team to develop.",
+        "Mentored junior colleagues on specific projects.",
+        "Worked in an agile product development environment using the JIRA project management tool. Worked on certain portfolios as a product owner writing stories containing business requirements and pseudo code for overseas development team to develop.",
       ],
     },
     {
