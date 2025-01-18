@@ -53,6 +53,7 @@ import {
     ABNBV2,
     Port_Web,
     everestglobal_logo,
+    TChurn
   } from "../assets";
   
   export const navLinks = [
@@ -343,7 +344,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: TChat,
+      image: TChurn,
       source_code_link: "https://github.com/DaniyalM11/Telco-Customer-Churn",
     },
     {
